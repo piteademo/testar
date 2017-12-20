@@ -4,7 +4,8 @@ Hello from Master
 
 Allow - in login names..
 
-{} 
+// En kommentar om just ingenting
+
 
 
 
